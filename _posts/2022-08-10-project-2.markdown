@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 1
 date: 2022-08-10
 img: tetris.png
 alt: image-alt
 project-date: August 2022
 client: Start Bootstrap
 category: Web Development
-description: Remeber the OG brick game you used to play on your retro console? This is Tetris on steroids!
+description: Remeber the OG brick game you used to play on your retro console? This is Tetris on steroids.
 ---
