@@ -47,9 +47,9 @@ social:
   - title: instagram
     url: https://www.instagram.com/forceandflex/
   - title: github
-    url: https://www.github.com/therealkasthetics/therealkasthetics.github.io
-  - title: website
-    url: https://www.forceandflex.com
+    url: https://www.github.com/therealkasthetics/therealkasthetics.github.io/
+  - title: google-plus
+    url: https://www.forceandflex.com/
 
 # Build settings
 markdown: kramdown
