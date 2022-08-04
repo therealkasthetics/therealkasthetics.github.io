@@ -5,5 +5,7 @@ date: 2022-08-10
 img: tetris.png
 alt: Tetris
 project-date: August 2022
+client: iOS
+category: Games
 description: Remeber the OG brick game you used to play on your retro console? This is Tetris on steroids!
 ---
