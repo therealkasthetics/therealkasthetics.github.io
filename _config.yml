@@ -33,8 +33,12 @@ color:
 # Footer settings
 footer:
   copyright: Kanwar Abhijit Singh
-  location: India
+  location: Location
   social: Around the Web
+  
+# Postal address
+address:
+  - line: Chandigarh
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
