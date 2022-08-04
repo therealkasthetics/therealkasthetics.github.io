@@ -5,38 +5,4 @@ date: 2022-08-01
 img: tetris.png
 alt: image-alt
 description: Do you remeber the OG block game you used to play on your retro console? Well, this is the same Tetris but on steroids!
-
-## Privacy Policy
-
-Kanwar Abhijit Singh built the Tetris app as a Free app. This Service is provided by Kanwar Abhijit Singh at no cost and is intended for use as is.
-
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Tetris unless otherwise defined in this Privacy Policy.
-
-#### Log Data
-
-I want to inform you that whenever you use my Service, I do not collect any Personal Data and Information (through third-party products) on your phone. 
-
-#### Service Providers
-
-I may employ third-party companies and individuals in the future due to the following reasons:
-
-* To facilitate my Service;
-* To provide the Service on my behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how my Service is used.
-
-I want to inform users of this Service that these third parties will have access to their Personal Information. The reason is to perform the tasks assigned to them on my behalf. However, they will be obligated not to disclose or use the information for any other purpose.
-
-#### Security
-
-I value your trust in providing me your Personal Information, thus I am striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
-
-#### Changes to This Privacy Policy
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2022-08-01.
-
 ---
