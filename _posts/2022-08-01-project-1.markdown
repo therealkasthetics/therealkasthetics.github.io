@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2022-08-01
-img: tetris.png
+img: brick-rush.png
 alt: image-alt
-name: tetris
-description: Do you remeber the OG block game you used to play on your retro console? Well, this is the same Tetris but on steroids!
+name: brick-rush
+description: Do you remeber the OG block game you used to play on your retro console? Well, this is it on PEDs now!
 ---
