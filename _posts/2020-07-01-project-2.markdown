@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 2
+date: 2020-07-01
+img: brick-rush.png
+alt: image-alt
+name: force-and-flex
+description: A perfect platform for my fellow ITians who struggle to achieve their fitness goals
+---
