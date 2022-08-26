@@ -6,5 +6,5 @@ img: brick-rush.png
 alt: image-alt
 privacy-policy: http://therealkasthetics.github.io/brick-rush
 terms-and-conditions: http://therealkasthetics.github.io/brick-rush
-description: Do you remeber the OG block game you used to play on your retro console? Well, this is it on PEDs now!
+description: Do you remeber the classic brick game you used to play on your retro console? Well, this is it on PEDs now!
 ---
