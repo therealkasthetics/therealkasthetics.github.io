@@ -4,6 +4,7 @@ modal-id: 1
 date: 2022-08-01
 img: brick-rush.png
 alt: image-alt
-name: brick-rush
+privacy-policy: http://therealkasthetics.github.io/brick-rush
+terms-and-conditions: http://therealkasthetics.github.io/brick-rush
 description: Do you remeber the OG block game you used to play on your retro console? Well, this is it on PEDs now!
 ---
