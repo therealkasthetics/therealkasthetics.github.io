@@ -2,6 +2,7 @@
 layout: default
 modal-id: 2
 date: 2020-07-01
+link: https://forceandflex.com/
 img: force-and-flex.png
 alt: image-alt
 name: force-and-flex
