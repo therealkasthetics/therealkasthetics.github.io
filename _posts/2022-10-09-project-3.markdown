@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2022-10-09
+link: https://apps.apple.com/app/id6443760903
+img: math-frenzy.png
+alt: image-alt
+privacy-policy: http://therealkasthetics.github.io/math-frenzy
+terms-and-conditions: http://therealkasthetics.github.io/math-frenzy
+description: A platform for all school kids to play with numbers and learn math in a fun and exciting way
+---
