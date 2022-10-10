@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-08-01
-link: https://apps.apple.com/us/app/brick-rush/id1639170008
+link: https://apps.apple.com/app/id1639170008
 img: brick-rush.png
 alt: image-alt
 privacy-policy: http://therealkasthetics.github.io/brick-rush
