@@ -5,7 +5,7 @@ date: 2022-11-10
 link: https://apps.apple.com/app/id6443835208
 img: wordblox.png
 alt: image-alt
-privacy-policy: http://therealkasthetics.github.io/wordblox
-terms-and-conditions: http://therealkasthetics.github.io/wordblox
+privacy-policy: http://therealkasthetics.github.io/wordblox/
+terms-and-conditions: http://therealkasthetics.github.io/wordblox/
 description: An exciting and brain tickling word puzzle that challenges you to guess the word in six tries
 ---
